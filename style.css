@@ -82,7 +82,7 @@
 }
 
 .section h3{
-	background-image: url(../images/icon.png);
+	background-image: url(./images/icon.png);
 	background-repeat: no-repeat;
 	background-size: 2.5%;
 	padding: 0 0 0 30px;
