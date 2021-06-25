@@ -39,12 +39,15 @@
 	margin-left: 3px;
 }
 
-.nav ul li a {
+.nav ul li .button {
 	text-decoration: none;
 	color: #fff;
 	font-weight: bold;
 }
 
+.button:hover {
+	letter-spacing: 5px;
+  }
 
 
 /*--------------------------------------------------------------
